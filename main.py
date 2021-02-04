@@ -61,7 +61,7 @@ class AnaliseRede:
 ip = input("Digite o ip:")
 analise = AnaliseRede(ip)
 thread = analise.Start()
-print(6*" "+"      IPS             |        STATUS          ")
+print(6*" "+"      IPs             |        STATUS          ")
 print(6*" "+"                      |                        ")
 for text in analise.lista:
     print(text)
