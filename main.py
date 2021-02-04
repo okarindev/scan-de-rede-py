@@ -57,7 +57,7 @@ class AnaliseRede:
         while self.thread.is_alive():
             continue
         return
-#ALTERADO
+#ALTERADO DENOVO
 ip = input("Digite o ip:")
 analise = AnaliseRede(ip)
 thread = analise.Start()
