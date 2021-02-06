@@ -1,0 +1,8 @@
+>>>>HELP
+
+	-Use ipconfig on cmd and get the ip
+	-remove last numbers
+	
+	>>>>IP: 192.168.100.1 [WRONG WAY]
+
+	>>>>IP: 192.168.100 [RIGHT WAY]
